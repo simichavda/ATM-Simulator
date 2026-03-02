@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "atm simulator", "atm simulator\atm simulator.vcxproj", "{F82EE751-68AA-4C15-8674-31BF83F18D8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F82EE751-68AA-4C15-8674-31BF83F18D8A}.Debug|x64.ActiveCfg = Debug|x64
+		{F82EE751-68AA-4C15-8674-31BF83F18D8A}.Debug|x64.Build.0 = Debug|x64
+		{F82EE751-68AA-4C15-8674-31BF83F18D8A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F82EE751-68AA-4C15-8674-31BF83F18D8A}.Debug|x86.Build.0 = Debug|Win32
+		{F82EE751-68AA-4C15-8674-31BF83F18D8A}.Release|x64.ActiveCfg = Release|x64
+		{F82EE751-68AA-4C15-8674-31BF83F18D8A}.Release|x64.Build.0 = Release|x64
+		{F82EE751-68AA-4C15-8674-31BF83F18D8A}.Release|x86.ActiveCfg = Release|Win32
+		{F82EE751-68AA-4C15-8674-31BF83F18D8A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55E934F-950D-498A-8408-D6AA5BE23607}
+	EndGlobalSection
+EndGlobal
